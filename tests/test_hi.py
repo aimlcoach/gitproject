@@ -5,7 +5,7 @@ from hi import greeting
 
 class GreetingTests(unittest.TestCase):
     def test_greeting_returns_expected_message(self) -> None:
-        self.assertEqual(greeting(), "Hi There!")
+        self.assertEqual(greeting(), "Hello from our DevOps sample!")
 
 
 if __name__ == "__main__":

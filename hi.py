@@ -1,5 +1,5 @@
 def greeting() -> str:
-    return "Hi There!"
+    return "Hello from our DevOps sample!"
 
 
 def main() -> None:
